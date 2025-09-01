@@ -1,0 +1,10 @@
+*.log
+*.tmp
+/build/
+*.exe
+*.dll
+*.obj
+*.pdf
+*.zip
+node_modules/
+.idea/
